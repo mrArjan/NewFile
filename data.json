@@ -1,12 +1,20 @@
-[
-    {
-        "id": 1,
-        "name": "James yap",
-        "drink": "Coffee Late"
-    },
-    {
-        "id": 2,
-        "name": "Mark Sevadera",
-        "drink": "MilkTea"
-    }
-]
+{
+    "orders":[
+        {
+            "id": 1,
+            "name": "Brad Stevens",
+            "drink":"Coffee"
+        },
+        {
+            "id": 2,
+            "name": "LeBron James",
+            "drink":"Juice"
+        },
+        {
+            "id": 3,
+            "name": "Swayze Aguilar",
+            "drink":"Milktea"
+        }
+
+    ]
+}
